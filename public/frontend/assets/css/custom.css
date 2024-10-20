@@ -1,0 +1,12 @@
+.category-image {
+    height: 80px;
+    width: 120px;
+    object-fit: cover;
+}
+
+.comment_user_image {
+    width: 50px !important;
+    height: 50px !important;
+    border-radius: 50% !important;
+    object-fit: cover !important;
+}
